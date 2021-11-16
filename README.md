@@ -1,10 +1,10 @@
 <p align=center>
-  <a href="http://www.moguit.cn">
-    <img src="./doc/images/gitee/favicon2.ico" alt="蘑菇博客" style="width:200px;height:200px">
+  <a href="http://www.100txy.com">
+    <img src="./doc/images/gitee/favicon.jpeg" alt="小天社区" style="width:200px;height:200px">
   </a>
 </p>
 <p align=center>
-   蘑菇博客，一个基于微服务架构的前后端分离博客系统
+   小天社区，一个基于golang微服务架构的前后端分离社区系统
 </p>
 <p align="center">
 <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
