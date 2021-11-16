@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="./doc/images/gitee/favicon1.jpeg">
+<img width="180px" style="border-radius: 50%" bor src="./doc/images/gitee/favicon.jpeg">
 
 # 小天社区
 
