@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align=center>
-   小天社区，一个基于golang微服务架构的前后端分离社区系统
+   小天社区，一个基于go-micro微服务架构的前后端分离社区系统
 </p>
 <p align="center">
 <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
