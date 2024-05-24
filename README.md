@@ -1,10 +1,10 @@
 <p align=center>
   <a href="http://www.100txy.com">
-    <img src="./doc/images/gitee/favicon.jpeg" alt="小天社区" style="width:200px;height:200px">
+    <img src="./doc/images/gitee/favicon.jpeg" alt="雷小天文档" style="width:200px;height:200px">
   </a>
 </p>
 <p align=center>
-   小天社区，一个基于go-micro微服务架构的前后端分离社区系统
+   雷小天文档，一个专注于技术分享的文档系统，涵盖开发语言、中间件、架构、云原生等多个领域。
 </p>
 <p align="center">
 <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
@@ -20,11 +20,13 @@
 
 首先特别感谢阿里云提供的 [学生“在家实践” 计划](https://developer.aliyun.com/adc/student/?spm=a2c6h.14062461.J_7747362070.1.5b6933e1X3rvHS)，免费提供的6个月的2核4G 1M的服务器，所以就刚好以此用来做蘑菇博客的演示站点，同时我也在搭建的时候，顺便录制了一套视频：[利用阿里云免费服务器搭建个人博客](https://www.bilibili.com/video/BV1c5411b7EZ?t=17) ，感兴趣的小伙伴可以参考视频一起完成部署~
 
-> 【演示前端】：http://demoweb.moguit.cn/
+> 【演示前端】：http://www.100txy.com/
 >
-> 【演示后端】：http://demoadmin.moguit.cn/
+> 【演示后端】：http://admin.100txy.com/
 >
-> 【演示账号】：[点击获取](https://gitee.com/moxi159753/mogu_blog_v2/raw/Nacos/doc/images/qq/%E8%8E%B7%E5%8F%96%E6%BC%94%E7%A4%BA%E7%8E%AF%E5%A2%83%E8%B4%A6%E5%8F%B7.jpg)
+> 【小天论坛】：[点击进入](https://www.lxtkj.cn)
+>
+> 【在线打赏】：[我赏](https://www.100txy.com/alidonate)
 
 ## 项目地址
 
