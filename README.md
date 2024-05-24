@@ -18,7 +18,13 @@
 
 ## 站点演示
 
-首先特别感谢阿里云提供的 [学生“在家实践” 计划](https://developer.aliyun.com/adc/student/?spm=a2c6h.14062461.J_7747362070.1.5b6933e1X3rvHS)，免费提供的6个月的2核4G 1M的服务器，所以就刚好以此用来做蘑菇博客的演示站点，同时我也在搭建的时候，顺便录制了一套视频：[利用阿里云免费服务器搭建个人博客](https://www.bilibili.com/video/BV1c5411b7EZ?t=17) ，感兴趣的小伙伴可以参考视频一起完成部署~
+首先特别感谢阿里云提供的 [学生“在家实践” 计划](https://developer.aliyun.com/adc/student/)，免费提供的6个月的2核4G 1M的服务器，所以有需要的小伙伴要薅一波羊毛~
+>个人开发者 推荐[云服务器 精选特惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=aykpk5i5)，
+>云小站 专属[云上小站](https://www.aliyun.com/minisite/goods?userCode=aykpk5i5)
+
+腾讯云提供的 [轻量应用服务器](https://curl.qcloud.com/VUU5UlIp)
+ >个人开发者 推荐[精选特惠 用云无忧](https://curl.qcloud.com/YSPVwizs)，
+ >云小站 专属[网站建设](https://curl.qcloud.com/VFSLrJSw)
 
 > 【演示前端】：http://www.100txy.com/
 >
