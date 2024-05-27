@@ -7,11 +7,11 @@
   - 项目搭建
     - [<span class="folder-icon">Windows环境下搭建蘑菇博客</span>](doc/文档/项目搭建/Windows环境下搭建蘑菇博客/README.md)
     - [<span class="folder-icon">Docker搭建蘑菇博客</span>](doc/文档/项目搭建/Docker搭建蘑菇博客/README.md)
-    - [蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
-    - [Github Actions完成蘑菇博客持续集成](doc/文档/项目搭建/蘑菇博客使用GithubAction完成持续集成/README.md)
-    - [蘑菇博客切换搜索模式](doc/文档/项目搭建/蘑菇博客切换搜索模式/README.md)
-    - [蘑菇博客配置七牛云对象存储](doc/文档/项目搭建/蘑菇博客配置七牛云存储/README.md)
-    - [<i class="fas fa-camera"></i>使用Zipkin搭建蘑菇博客链路追踪](doc/文档/项目搭建/使用Zipkin搭建蘑菇博客链路追踪/README.md)
+    - [<i class="fas folder-icon"></i> 蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
+    - [<i class="fas folder-icon"></i> Github Actions完成蘑菇博客持续集成](doc/文档/项目搭建/蘑菇博客使用GithubAction完成持续集成/README.md)
+    - [<i class="fas folder-icon"></i> 蘑菇博客切换搜索模式](doc/文档/项目搭建/蘑菇博客切换搜索模式/README.md)
+    - [<i class="fas folder-icon"></i> 蘑菇博客配置七牛云对象存储](doc/文档/项目搭建/蘑菇博客配置七牛云存储/README.md)
+    - [<i class="folder-icon"></i> 使用Zipkin搭建蘑菇博客链路追踪](doc/文档/项目搭建/使用Zipkin搭建蘑菇博客链路追踪/README.md)
 
 - **其他**
 
