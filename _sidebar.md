@@ -5,7 +5,8 @@
   - [项目介绍](doc/文档/项目介绍.md)
   - [技术选型](doc/文档/技术选型.md)
   - 项目搭建
-    - [Windows环境下搭建蘑菇博客](doc/文档/项目搭建/Windows环境下搭建蘑菇博客/README.md)
+    - <span class="folder-icon">Windows环境下搭建蘑菇博客</span>
+    - [<span class="folder-icon">Windows环境下搭建蘑菇博客</span>](doc/文档/项目搭建/Windows环境下搭建蘑菇博客/README.md)
     - [Docker搭建蘑菇博客](doc/文档/项目搭建/Docker搭建蘑菇博客/README.md)
     - [蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
     - [Github Actions完成蘑菇博客持续集成](doc/文档/项目搭建/蘑菇博客使用GithubAction完成持续集成/README.md)

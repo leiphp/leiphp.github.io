@@ -1,5 +1,9 @@
-.summary .menu-list .chapter a[href*="doc/文档/项目介绍.md"]:before {
-    content: '\1F4C1'; /* Unicode for folder icon */
-    display: inline-block;
-    margin-right: 8px;
+/* styles.css */
+
+.folder-icon::before {
+    content: "\f07b"; /* Unicode 字符代表文件夹图标，这里使用的是 Font Awesome 图标库中的文件夹图标 */
+    font-family: "Font Awesome 5 Free"; /* 如果使用 Font Awesome 图标库，请引入对应的字体文件 */
+    margin-right: 5px; /* 可选：调整图标与文本之间的距离 */
 }
+
+/* 添加其他自定义样式 */
