@@ -1,0 +1,5 @@
+.summary .menu-list .chapter a[href*="doc/文档/项目介绍.md"]:before {
+    content: '\1F4C1'; /* Unicode for folder icon */
+    display: inline-block;
+    margin-right: 8px;
+}
