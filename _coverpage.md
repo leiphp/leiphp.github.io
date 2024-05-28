@@ -9,5 +9,4 @@
 
 [Gitee](<https://gitee.com/leixiaotain>)
 [Github](<https://github.com/leiphp>)
-[网站](<https://100txy.com>)
 [开始阅读](README.md)

@@ -6,3 +6,10 @@
     margin-right: 5px; /* 可选：调整图标与文本之间的距离 */
 }
 /* 添加其他自定义样式 */
+li {
+    list-style: none;
+}
+.menu-toggle {
+    cursor: pointer;
+    margin-right: 8px;
+}
