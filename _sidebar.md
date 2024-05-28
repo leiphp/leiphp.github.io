@@ -2,10 +2,10 @@
 
 - **文档**
 
-  - [<span class="folder-icon">Docker常用组件项目实战</span>](doc/文档/Docker常用组件项目实战/README.md)
-    - [<i class="fas fa-file">1.Docker部署MySql案例</i>](doc/文档/Docker常用组件项目实战/list/1.Docker部署MySql案例/README.md)
-    - [<i class="fas fa-file">2.Docker部署Jenkins案例</i>](doc/文档/Docker常用组件项目实战/2.Docker部署Jenkins案例/README.md)
-    - [<i class="fas fa-file"></i>&nbsp;蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
+  - [<span class="folder-icon">Docker常用组件项目实战</span>](doc/文档/项目搭建/Docker常用组件项目实战/README.md)
+    - [<span class="fas fa-file">1.Docker部署MySql案例</span>](doc/文档/项目搭建/Docker常用组件项目实战/list/1.Docker部署MySql案例/README.md)
+    - [<span class="fas fa-file">2.Docker部署Jenkins案例</span>](doc/文档/项目搭建/Docker常用组件项目实战/2.Docker部署Jenkins案例/README.md)
+    - [<span class="fas fa-file"></span>&nbsp;蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
   - [<span class="folder-icon">Go微服务架构案例实战</span>](doc/文档/Go微服务架构案例实战/README.md)
     - [<i class="fas fa-file">1.Docker部署MySql案例</i>](doc/文档/Go微服务架构案例实战/list/1.Docker部署MySql案例/README.md)
     - [<i class="fas fa-file">2.Docker部署Jenkins案例</i>](doc/文档/Go微服务架构案例实战/list/2.Docker部署Jenkins案例/README.md)
