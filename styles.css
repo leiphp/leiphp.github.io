@@ -6,4 +6,17 @@
     margin-right: 5px; /* 可选：调整图标与文本之间的距离 */
 }
 
+.fa-file:before {
+    content: "\f15b"; /* Font Awesome file icon */
+}
+
+.file {
+    display: flex;
+    align-items: center;
+}
+
+.file i {
+    margin-right: 5px;
+}
+
 /* 添加其他自定义样式 */
